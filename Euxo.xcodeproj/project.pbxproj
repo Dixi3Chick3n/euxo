@@ -11,7 +11,7 @@
 		961A242529363F070023E26D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 961A242429363F070023E26D /* Assets.xcassets */; };
 		961A242929363F070023E26D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 961A242829363F070023E26D /* Preview Assets.xcassets */; };
 		961A243029363F230023E26D /* Sequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 961A242F29363F230023E26D /* Sequence.swift */; };
-		961A243229363F340023E26D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 961A243129363F340023E26D /* ContentView.swift */; };
+		96274B5C293645AB00C9648D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96274B5B293645AB00C9648D /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,7 +21,7 @@
 		961A242629363F070023E26D /* Euxo.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Euxo.entitlements; sourceTree = "<group>"; };
 		961A242829363F070023E26D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		961A242F29363F230023E26D /* Sequence.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sequence.swift; sourceTree = "<group>"; };
-		961A243129363F340023E26D /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ContentView.swift; path = ../../../Euxoii/EuxoUniversal/EuxoUniversal/ContentView.swift; sourceTree = "<group>"; };
+		96274B5B293645AB00C9648D /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,7 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				961A242029363F060023E26D /* EuxoApp.swift */,
-				961A243129363F340023E26D /* ContentView.swift */,
+				96274B5B293645AB00C9648D /* ContentView.swift */,
 				961A242F29363F230023E26D /* Sequence.swift */,
 				961A242429363F070023E26D /* Assets.xcassets */,
 				961A242629363F070023E26D /* Euxo.entitlements */,
@@ -143,8 +143,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				961A242129363F060023E26D /* EuxoApp.swift in Sources */,
-				961A243229363F340023E26D /* ContentView.swift in Sources */,
 				961A243029363F230023E26D /* Sequence.swift in Sources */,
+				96274B5C293645AB00C9648D /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
